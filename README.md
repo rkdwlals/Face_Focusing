@@ -29,5 +29,3 @@ python youngsang.py
 ```
 
 `youngsang.py` 안의 모델 경로(`model_path`)와 입력·출력 영상 경로(`video_path`, `output_path`)를 자기 환경에 맞게 바꿔야 합니다. 입력 영상은 저장소에 포함하지 않았습니다.
-
-README 정리는 Claude(AI)의 도움을 받았습니다.
